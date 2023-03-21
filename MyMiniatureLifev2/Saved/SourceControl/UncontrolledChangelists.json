@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/rebeccaslason/Documents/Unreal Projects/MyMiniatureLifev2/Content/StarterContent/Props/SM_PillarFrame.uasset",
+				"/Users/rebeccaslason/Documents/Unreal Projects/MyMiniatureLifev2/Content/maps/NewMap.umap",
+				"/Users/rebeccaslason/Documents/Unreal Projects/MyMiniatureLifev2/Content/maps/concretee_TileMap.uasset",
+				"/Users/rebeccaslason/Documents/Unreal Projects/MyMiniatureLifev2/Content/empty_room_.uasset",
+				"/Users/rebeccaslason/Documents/Unreal Projects/MyMiniatureLifev2/Content/empty_room__Sprite.uasset",
+				"/Users/rebeccaslason/Documents/Unreal Projects/MyMiniatureLifev2/Content/maps/concretee.uasset",
+				"/Users/rebeccaslason/Documents/Unreal Projects/MyMiniatureLifev2/Content/maps/concretee_Sprite.uasset",
+				"/Users/rebeccaslason/Documents/Unreal Projects/MyMiniatureLifev2/Content/maps/concretee_TileSet.uasset"
+			]
+		}
+	]
+}
